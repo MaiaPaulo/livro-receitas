@@ -2,5 +2,5 @@
 
 ## qualquer coisa aqui
 
-### aqui seria uma receitas mas eu to com preguiça de escrever 
+### aqui seria uma receitas mas eu estou aprendendo git 
 
